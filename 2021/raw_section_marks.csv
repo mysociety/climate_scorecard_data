@@ -75,7 +75,7 @@ AND,s1_gov,21,7.0
 AND,s2_m&a,18,0.0
 AND,s3_c&a,7,6.0
 AND,s4_coms,10,4.0
-AND,s5_mset,5,1.0
+AND,s5_mset,5,0.0
 AND,s6_cb,4,1.0
 AND,s7_dsi,5,0.0
 AND,s8_est,5,2.0
@@ -160,7 +160,7 @@ BAN,s5_mset,5,4.0
 BAN,s6_cb,4,2.0
 BAN,s7_dsi,5,0.0
 BAN,s8_est,5,2.0
-BAN,s9_ee,4,3.0
+BAN,s9_ee,4,2.0
 BAR,s1_gov,21,5.0
 BAR,s2_m&a,18,0.0
 BAR,s3_c&a,7,3.0
@@ -431,7 +431,7 @@ BRY,s6_cb,4,3.0
 BRY,s7_dsi,5,1.0
 BRY,s8_est,5,1.0
 BRY,s9_ee,4,3.0
-BST,s1_gov,21,16.0
+BST,s1_gov,21,15.0
 BST,s2_m&a,18,14.0
 BST,s3_c&a,7,1.0
 BST,s4_coms,10,6.0
@@ -767,7 +767,7 @@ CRW,s9_ee,4,0.0
 CRY,s1_gov,21,11.0
 CRY,s2_m&a,18,8.0
 CRY,s3_c&a,7,5.0
-CRY,s4_coms,10,5.0
+CRY,s4_coms,10,6.0
 CRY,s5_mset,5,3.0
 CRY,s6_cb,4,4.0
 CRY,s7_dsi,5,3.0
@@ -892,7 +892,7 @@ DOV,s8_est,5,0.0
 DOV,s9_ee,4,2.0
 DRS,s1_gov,21,9.0
 DRS,s2_m&a,18,6.0
-DRS,s3_c&a,7,4.0
+DRS,s3_c&a,7,2.0
 DRS,s4_coms,10,3.0
 DRS,s5_mset,5,1.0
 DRS,s6_cb,4,2.0
@@ -1062,7 +1062,7 @@ ELS,s7_dsi,5,0.0
 ELS,s8_est,5,0.0
 ELS,s9_ee,4,1.0
 ENF,s1_gov,21,12.0
-ENF,s2_m&a,18,7.0
+ENF,s2_m&a,18,8.0
 ENF,s3_c&a,7,5.0
 ENF,s4_coms,10,8.0
 ENF,s5_mset,5,3.0
@@ -1213,7 +1213,7 @@ FMO,s5_mset,5,1.0
 FMO,s6_cb,4,1.0
 FMO,s7_dsi,5,0.0
 FMO,s8_est,5,1.0
-FMO,s9_ee,4,3.0
+FMO,s9_ee,4,0.0
 FOE,s1_gov,21,10.0
 FOE,s2_m&a,18,9.0
 FOE,s3_c&a,7,3.0
@@ -1516,7 +1516,7 @@ HNS,s2_m&a,18,10.0
 HNS,s3_c&a,7,6.0
 HNS,s4_coms,10,8.0
 HNS,s5_mset,5,2.0
-HNS,s6_cb,4,4.0
+HNS,s6_cb,4,3.0
 HNS,s7_dsi,5,2.0
 HNS,s8_est,5,4.0
 HNS,s9_ee,4,1.0
@@ -1739,7 +1739,7 @@ LCE,s9_ee,4,3.0
 LCR,s1_gov,21,9.0
 LCR,s2_m&a,18,15.0
 LCR,s3_c&a,5,1.0
-LCR,s4_coms,10,3.0
+LCR,s4_coms,10,4.0
 LCR,s5_mset,5,3.0
 LCR,s6_cb,4,1.0
 LCR,s7_dsi,5,0.0
@@ -2305,7 +2305,7 @@ NYK,s8_est,5,4.0
 NYK,s9_ee,4,1.0
 OAD,s1_gov,21,5.0
 OAD,s2_m&a,18,4.0
-OAD,s3_c&a,7,5.0
+OAD,s3_c&a,7,4.0
 OAD,s4_coms,10,4.0
 OAD,s5_mset,5,1.0
 OAD,s6_cb,4,2.0
@@ -2482,7 +2482,7 @@ REI,s5_mset,5,3.0
 REI,s6_cb,4,2.0
 REI,s7_dsi,5,0.0
 REI,s8_est,5,3.0
-REI,s9_ee,4,4.0
+REI,s9_ee,4,3.0
 RFW,s1_gov,21,0.0
 RFW,s2_m&a,18,0.0
 RFW,s3_c&a,7,0.0
@@ -2671,7 +2671,7 @@ SCR,s5_mset,5,2.0
 SCR,s6_cb,4,3.0
 SCR,s7_dsi,5,0.0
 SCR,s8_est,5,1.0
-SCR,s9_ee,4,4.0
+SCR,s9_ee,4,0.0
 SDE,s1_gov,21,20.0
 SDE,s2_m&a,18,9.0
 SDE,s3_c&a,7,6.0
@@ -2830,7 +2830,7 @@ SLG,s2_m&a,18,17.0
 SLG,s3_c&a,7,4.0
 SLG,s4_coms,10,7.0
 SLG,s5_mset,5,4.0
-SLG,s6_cb,4,4.0
+SLG,s6_cb,4,3.0
 SLG,s7_dsi,5,1.0
 SLG,s8_est,5,3.0
 SLG,s9_ee,4,3.0
@@ -2970,7 +2970,7 @@ STF,s7_dsi,5,5.0
 STF,s8_est,5,5.0
 STF,s9_ee,4,3.0
 STG,s1_gov,21,9.0
-STG,s2_m&a,18,11.0
+STG,s2_m&a,18,10.0
 STG,s3_c&a,7,6.0
 STG,s4_coms,10,8.0
 STG,s5_mset,5,5.0
@@ -2981,7 +2981,7 @@ STG,s9_ee,4,3.0
 STH,s1_gov,21,7.0
 STH,s2_m&a,18,6.0
 STH,s3_c&a,7,4.0
-STH,s4_coms,10,8.0
+STH,s4_coms,10,7.0
 STH,s5_mset,5,2.0
 STH,s6_cb,4,2.0
 STH,s7_dsi,5,0.0
@@ -3502,7 +3502,7 @@ WND,s8_est,5,4.0
 WND,s9_ee,4,3.0
 WNM,s1_gov,21,12.0
 WNM,s2_m&a,18,6.0
-WNM,s3_c&a,7,5.0
+WNM,s3_c&a,7,4.0
 WNM,s4_coms,10,9.0
 WNM,s5_mset,5,2.0
 WNM,s6_cb,4,2.0
@@ -3635,7 +3635,7 @@ WYC,s6_cb,4,4.0
 WYC,s7_dsi,5,0.0
 WYC,s8_est,5,2.0
 WYC,s9_ee,4,3.0
-WYCA,s1_gov,21,10.0
+WYCA,s1_gov,21,9.0
 WYCA,s2_m&a,18,5.0
 WYCA,s3_c&a,5,2.0
 WYCA,s4_coms,10,5.0
