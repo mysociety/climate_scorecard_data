@@ -75,8 +75,7 @@ For example:
 • etc.",CHECKBOX,1
 s1_gov_q5_sp2,The Plan commits the authority to lobbying higher levels of government when it comes across limitations of legislation and finance that impede it from taking action on the climate crisis.,CHECKBOX,1
 s1_gov_q6,"Has the council committed to implementing a monitoring system in order to evaluate, review and update its targets?",HEADER,
-s1_gov_q6_sp1,"Does the plan set out adaptation actions for the whole district that the Council will take in the following areas?
-",CHECKBOX,1
+s1_gov_q6_sp1,The council has a monitoring system in place for evaluating and reviewing the Action Plan.,CHECKBOX,1
 s1_gov_q6_sp2,"The monitoring system is assigned to a department or team to complete and the review process is overseen by a senior lead officer, cabinet member or committee.",CHECKBOX,1
 s1_gov_q6_sp3,The Plan commits the council to reviewing and updating the Plan at least once annually.,CHECKBOX,1
 s2_m&a_q7,Does the Plan outline the implications of climate change for the local area?,HEADER,
@@ -103,7 +102,8 @@ s2_m&a_q8_sp6,The Plan sets out or links to a strategy for decarbonising energy 
 s2_m&a_q8_sp7,The Plan sets out or links to a strategy for decarbonising heating.,CHECKBOX,1
 s2_m&a_q8_sp8,The Plan sets out or links to a strategy for restoring the natural environment and improving biodiversity.,CHECKBOX,1
 s2_m&a_q8_sp9,The Plan sets out or links to a strategy for decarbonising food systems and agriculture.,CHECKBOX,1
-s2_m&a_q9,Does the plan set out adaptation actions that the Council will take in the following areas?,HEADER,
+s2_m&a_q9,"Does the plan set out adaptation actions for the whole district that the Council will take in the following areas?
+",HEADER,
 s2_m&a_q9_sp1,The Plan sets out how the council will help residents prepare for changes in climate and extreme weather.,CHECKBOX,1
 s2_m&a_q9_sp2,The Plan sets out adaptation actions for planning and land use,CHECKBOX,1
 s2_m&a_q9_sp3,The Plan sets out adaptation actions for transport ,CHECKBOX,1
@@ -245,10 +245,14 @@ This means:
 ",CHECKBOX,1
 s4_coms_q17,Does the Plan have a clear communication strategy?,HEADER,
 s4_coms_q17_sp1,There is a clear communication strategy for informing the public about updates on the Plan.*,CHECKBOX,1
-s5_mset_q18,Does the Plan measure and set emissions targets?,HEADER,
-s5_mset_q18_sp1,The Plan includes a baseline emission inventory for greenhouse gas emissions.,CHECKBOX,1
-s5_mset_q18_sp2,The Plan quantifies current greenhouse gas emissions for the area.,CHECKBOX,1
-s5_mset_q18_sp3,"The Plan provides a breakdown of Scope 1, 2 and 3 emissions.*",CHECKBOX,1
+s5_mset_q18,"Does the Plan measure and set emissions targets for the whole district?
+",HEADER,
+s5_mset_q18_sp1,"The Plan includes a baseline emission inventory for greenhouse gas emissions for the whole district.
+",CHECKBOX,1
+s5_mset_q18_sp2,"The Plan quantifies current greenhouse gas emissions for the whole district.
+",CHECKBOX,1
+s5_mset_q18_sp3,"The Plan provides a breakdown of Scope 1, 2 and 3 emissions for the whole district.
+",CHECKBOX,1
 s5_mset_q19,Does the Plan highlight action areas for emissions reductions and not simply carbon offsetting?,HEADER,
 s5_mset_q19_sp1,"The Plan highlights action areas for emissions reductions.*
 
