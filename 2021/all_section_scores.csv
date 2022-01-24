@@ -104,7 +104,6 @@ Scottish unitary authority,West Dunbartonshire Council,WDU,0.5238095238095238,0.
 Unitary authority,Southend-on-Sea Borough Council,SOS,0.5714285714285714,0.6666666666666666,1.0,0.3,0.2,1.0,0.2,0.6,0.5,0.569620253164557,0.5557142857142857,22.6453823453925,3.0,140k - 210k,East of England,Urban,Coalition/Minority
 Non-metropolitan district,Epsom and Ewell Borough Council,EPS,0.47619047619047616,0.7777777777777778,0.8571428571428571,0.5,0.4,0.5,0.0,0.6,0.75,0.569620253164557,0.5541666666666666,8.925314063527107,5.0,80k - 90k,South East,Urban,Independent
 Non-metropolitan district,Three Rivers District Council,THE,0.2857142857142857,0.7777777777777778,0.42857142857142855,0.9,1.0,0.75,0.2,0.0,0.75,0.5569620253164557,0.5538095238095238,9.92761804699806,5.0,80k - 90k,East of England,Urban,Liberal Democrat
-Metropolitan district,North Tyneside Council,NTY,0.5714285714285714,0.5,0.42857142857142855,0.7,0.8,0.5,0.0,0.8,0.75,0.5569620253164557,0.5525,22.17242512012235,3.0,140k - 210k,North East,Urban,Labour
 Non-metropolitan district,Ashford Borough Council,ASF,0.42857142857142855,0.6111111111111112,0.8571428571428571,0.8,0.2,1.0,0.2,0.2,0.75,0.5569620253164557,0.5520238095238095,18.67323294266027,2.0,120k - 130k,South East,Urban with rural areas,Conservative
 London borough,London Borough of Bromley,BRY,0.6666666666666666,0.3888888888888889,0.7142857142857143,0.6,0.8,0.75,0.2,0.2,0.75,0.5569620253164557,0.5504761904761906,14.260273503321942,5.0,290k - 410k,London,Urban,Conservative
 Non-metropolitan district,Blaby District Council,BLA,0.5238095238095238,0.5555555555555556,0.5714285714285714,0.7,1.0,0.5,0.0,0.6,0.25,0.5443037974683544,0.5501190476190476,10.57832027263952,5.0,90k - 100k,East Midlands,Urban with rural areas,Conservative
@@ -171,6 +170,7 @@ Welsh unitary authority,Vale of Glamorgan Council,VGL,0.47619047619047616,0.7777
 Non-metropolitan district,Rushcliffe Borough Council,RUS,0.38095238095238093,0.7777777777777778,0.5714285714285714,0.4,0.6,0.5,0.0,0.0,1.0,0.4936708860759494,0.4545238095238095,7.20371579238824,5.0,120k - 130k,East Midlands,Rural,Conservative
 Non-metropolitan district,Scarborough Borough Council,SCE,0.2857142857142857,0.3888888888888889,0.8571428571428571,0.3,0.8,0.25,0.0,0.6,0.5,0.4050632911392405,0.4522619047619048,26.36059654091232,1.0,110k - 120k,Yorkshire and The Humber,Urban with rural areas,Coalition/Minority
 Non-metropolitan district,Uttlesford District Council,UTT,0.38095238095238093,0.5555555555555556,0.42857142857142855,0.7,0.6,0.5,0.0,0.2,0.75,0.46835443037974683,0.45226190476190475,9.216569081109506,5.0,80k - 90k,East of England,Rural,Independent
+Metropolitan district,Bolton Metropolitan Borough Council,BOL,0.19047619047619047,0.16666666666666666,0.7142857142857143,0.7,0.4,0.75,0.2,0.6,0.5,0.379746835443038,0.44821428571428573,31.130111208485506,1.0,290k - 410k,North West,Urban,Coalition/Minority
 Non-metropolitan district,Cherwell District Council,CHR,0.5714285714285714,0.4444444444444444,0.7142857142857143,0.4,0.8,0.5,0.0,0.2,0.0,0.45569620253164556,0.44452380952380954,14.360498202693632,3.0,140k - 160k,South East,Urban with rural areas,Conservative
 Scottish unitary authority,South Lanarkshire Council,SLK,0.3333333333333333,0.3888888888888889,0.5714285714285714,0.7,0.4,0.5,0.0,0.4,0.75,0.43037974683544306,0.4415476190476191,20.958878876540894,3.0,290k - 410k,Scotland,Urban with rural areas,Coalition/Minority
 Metropolitan district,Barnsley Metropolitan Borough Council,BNS,0.38095238095238093,0.3333333333333333,0.5714285714285714,0.6,0.8,0.5,0.2,0.2,0.25,0.4177215189873418,0.4403571428571429,30.00411464519212,1.0,210k - 290k,Yorkshire and The Humber,Urban,Labour
@@ -187,6 +187,7 @@ Non-metropolitan district,Hertsmere Borough Council,HER,0.14285714285714285,0.77
 Non-metropolitan district,Newark and Sherwood District Council,NEA,0.5714285714285714,0.5555555555555556,0.5714285714285714,0.4,0.4,0.0,0.2,0.2,0.5,0.45569620253164556,0.4197619047619048,19.26917575415982,2.0,120k - 130k,East Midlands,Rural,Conservative
 London borough,London Borough of Hillingdon,HIL,0.3333333333333333,0.2777777777777778,0.2857142857142857,0.9,0.6,0.25,0.0,0.4,0.75,0.4050632911392405,0.4195238095238095,18.39799122429693,4.0,290k - 410k,London,Urban,Conservative
 Unitary authority,Stockton-on-Tees Borough Council,STT,0.3333333333333333,0.8333333333333334,0.42857142857142855,0.5,0.6,0.5,0.0,0.2,0.0,0.45569620253164556,0.4192857142857143,25.83641617852725,2.0,140k - 210k,North East,Urban,Coalition/Minority
+Welsh unitary authority,Rhondda Cynon Taf County Borough Council,RCT,0.2857142857142857,0.6666666666666666,0.5714285714285714,0.4,0.4,0.25,0.0,0.4,0.75,0.43037974683544306,0.4185714285714285,30.521077598991763,1.0,210k - 290k,Wales,Urban with rural areas,Labour
 County,Oxfordshire County Council,OXF,0.47619047619047616,0.4444444444444444,0.4,0.5,0.4,0.25,0.0,0.8,0.25,0.42857142857142855,0.41809523809523813,13.159116662917764,2.0,under 800k,South East,,Coalition/Minority
 Unitary authority,Torbay Council,TOB,0.2857142857142857,0.6111111111111112,0.5714285714285714,0.5,0.2,0.5,0.0,0.4,0.75,0.43037974683544306,0.41773809523809524,28.21644415986616,2.0,0k - 140k,South West,Urban,Coalition/Minority
 Non-metropolitan district,Gosport Borough Council,GOS,0.38095238095238093,0.5,0.7142857142857143,0.4,0.6,0.25,0.0,0.2,0.5,0.4177215189873418,0.4167857142857143,20.680427402814768,2.0,80k - 90k,South East,Urban,Conservative
@@ -232,7 +233,6 @@ Metropolitan district,Oldham Metropolitan Borough Council,OLD,0.1428571428571428
 Welsh unitary authority,Ceredigion County Council,CGN,0.7142857142857143,0.2222222222222222,0.42857142857142855,0.2,0.4,0.0,0.0,0.4,0.5,0.379746835443038,0.3397619047619048,20.94033708273942,4.0,0k - 140k,Wales,Sparse and rural,Coalition/Minority
 Unitary authority,North Somerset  Council,NSM,0.38095238095238093,0.3333333333333333,0.14285714285714285,0.4,0.8,0.25,0.0,0.2,0.75,0.35443037974683544,0.33857142857142863,16.08471468296039,5.0,210k - 290k,South West,Urban,Coalition/Minority
 London borough,London Borough of Barking and Dagenham,BDG,0.23809523809523808,0.3333333333333333,0.42857142857142855,0.3,0.4,0.75,0.4,0.0,0.5,0.3291139240506329,0.3375,32.72231926765803,1.0,210k - 290k,London,Urban,Labour
-Combined authority,North of Tyne Combined Authority,NTCA,0.38095238095238093,0.16666666666666666,0.2,0.4,0.4,0.5,0.2,0.8,0.0,0.3246753246753247,0.33714285714285713,,,,North East,,
 Unitary authority,West Northamptonshire Council,WNT,0.14285714285714285,0.2222222222222222,0.42857142857142855,0.4,0.6,0.25,0.2,0.4,0.5,0.2911392405063291,0.3365476190476191,17.60152903098383,4.0,290k - 410k,East Midlands,Urban with rural areas,Conservative
 London borough,London Borough of Tower Hamlets,TWH,0.5238095238095238,0.2222222222222222,0.42857142857142855,0.3,0.4,0.75,0.0,0.0,0.75,0.3670886075949367,0.33619047619047615,27.521556559762267,2.0,290k - 410k,London,Urban,Labour
 County,Gloucestershire County Council,GLS,0.38095238095238093,0.3888888888888889,0.6,0.6,0.4,0.0,0.0,0.0,0.0,0.33766233766233766,0.3354761904761905,15.994691077480708,2.0,under 800k,South West,,Conservative
@@ -277,7 +277,6 @@ Metropolitan district,Liverpool City Council,LIV,0.38095238095238093,0.222222222
 Non-metropolitan district,Cheltenham Borough Council,CHT,0.42857142857142855,0.2222222222222222,0.0,0.4,0.8,0.0,0.0,0.0,0.0,0.26582278481012656,0.23761904761904762,14.232300594982195,3.0,110k - 120k,South West,Urban,Liberal Democrat
 Non-metropolitan district,East Hampshire District Council,EHA,0.23809523809523808,0.2777777777777778,0.14285714285714285,0.4,0.2,0.0,0.2,0.0,0.75,0.25316455696202533,0.23630952380952383,10.278269696176864,5.0,120k - 130k,South East,Urban with rural areas,Conservative
 Metropolitan district,City of Bradford Metropolitan District Council,BRD,0.09523809523809523,0.4444444444444444,0.14285714285714285,0.1,0.4,0.0,0.0,0.6,0.25,0.22784810126582278,0.22988095238095238,34.88322839474153,1.0,440k - 640k,Yorkshire and The Humber,Urban,Labour
-Metropolitan district,City of Wolverhampton Council,WLV,0.19047619047619047,0.1111111111111111,0.14285714285714285,0.5,0.6,0.0,0.0,0.0,0.5,0.21518987341772153,0.22666666666666666,32.534546645807765,1.0,210k - 290k,West Midlands,Urban,Labour
 Non-metropolitan district,Ryedale District Council,RYE,0.3333333333333333,0.1111111111111111,0.8571428571428571,0.2,0.0,0.0,0.0,0.0,0.0,0.21518987341772153,0.2252380952380952,15.731866052726616,3.0,50k - 80k,Yorkshire and The Humber,Sparse and rural,Coalition/Minority
 Unitary authority,Bracknell Forest Council,BRC,0.3333333333333333,0.2777777777777778,0.2857142857142857,0.2,0.6,0.0,0.0,0.0,0.0,0.24050632911392406,0.22452380952380951,10.330146733143476,5.0,0k - 140k,South East,Urban,Conservative
 Non-metropolitan district,Chelmsford City Council,CHL,0.2857142857142857,0.16666666666666666,0.5714285714285714,0.1,0.2,0.0,0.0,0.2,0.25,0.21518987341772153,0.22107142857142859,12.35628684664888,4.0,170k - 250k,East of England,Urban with rural areas,Liberal Democrat
@@ -295,6 +294,7 @@ Scottish unitary authority,Inverclyde Council,IVC,0.23809523809523808,0.11111111
 Non-metropolitan district,Harrogate Borough Council,HAG,0.19047619047619047,0.1111111111111111,0.2857142857142857,0.4,0.2,0.25,0.2,0.0,0.0,0.189873417721519,0.2005952380952381,10.860670505064318,5.0,140k - 160k,Yorkshire and The Humber,Urban with rural areas,Conservative
 Unitary authority,Luton Borough Council,LUT,0.09523809523809523,0.0,0.5714285714285714,0.4,0.0,0.0,0.0,0.4,0.0,0.1518987341772152,0.19999999999999998,26.092169648724244,2.0,210k - 290k,East of England,Urban,Labour
 Non-metropolitan district,Barrow-in-Furness Borough Council,BAR,0.23809523809523808,0.0,0.42857142857142855,0.3,0.4,0.25,0.0,0.0,0.0,0.17721518987341772,0.1975,31.03288694835121,1.0,50k - 80k,North West,Urban with rural areas,Labour
+Non-metropolitan district,Breckland District Council,BRE,0.3333333333333333,0.0,0.2857142857142857,0.3,0.2,0.0,0.0,0.2,0.25,0.189873417721519,0.1903571428571429,19.83135150891632,2.0,140k - 160k,East of England,Sparse and rural,Conservative
 Scottish unitary authority,Comhairle nan Eilean Siar,ELS,0.42857142857142855,0.0,0.2857142857142857,0.2,0.4,0.0,0.0,0.0,0.25,0.20253164556962025,0.18964285714285714,17.299781655824468,4.0,0k - 140k,Scotland,Sparse and rural,Independent
 County,Lincolnshire County Council,LIN,0.47619047619047616,0.05555555555555555,0.2,0.3,0.2,0.25,0.0,0.0,0.0,0.22077922077922077,0.1872619047619048,19.44092148919352,1.0,under 800k,Yorkshire and The Humber,,Conservative
 Welsh unitary authority,City and County of Swansea Council,SWA,0.14285714285714285,0.2222222222222222,0.42857142857142855,0.2,0.0,0.0,0.0,0.0,0.75,0.189873417721519,0.18654761904761905,25.69964182530036,3.0,210k - 290k,Wales,Urban,Labour
@@ -306,7 +306,6 @@ Metropolitan district,Gateshead Metropolitan Borough Council,GAT,0.1428571428571
 Non-metropolitan district,Hinckley and Bosworth Borough Council,HIN,0.14285714285714285,0.05555555555555555,0.14285714285714285,0.6,0.0,0.0,0.0,0.2,0.0,0.1518987341772152,0.16119047619047622,13.414295113845288,4.0,110k - 120k,East Midlands,Urban with rural areas,Liberal Democrat
 Non-metropolitan district,Rossendale Borough Council,ROS,0.23809523809523808,0.16666666666666666,0.14285714285714285,0.3,0.2,0.0,0.0,0.0,0.25,0.17721518987341772,0.15964285714285714,23.96728179122017,1.0,50k - 80k,North West,Urban,Coalition/Minority
 County,Cumbria County Council,CMA,0.047619047619047616,0.0,0.6,0.2,0.0,0.5,0.0,0.0,0.0,0.1038961038961039,0.15214285714285714,21.137978394518534,1.0,under 800k,North West,,Coalition/Minority
-Non-metropolitan district,North Norfolk District Council,NNO,0.14285714285714285,0.05555555555555555,0.14285714285714285,0.5,0.0,0.0,0.0,0.0,0.5,0.1518987341772152,0.15119047619047618,20.96941933668457,2.0,110k - 120k,East of England,Sparse and rural,Liberal Democrat
 Unitary authority,North Lincolnshire Council,NLN,0.19047619047619047,0.05555555555555555,0.2857142857142857,0.3,0.2,0.0,0.0,0.0,0.0,0.13924050632911392,0.14476190476190476,22.31556902816149,3.0,140k - 210k,Yorkshire and The Humber,Urban with rural areas,Conservative
 Non-metropolitan district,South Kesteven District Council,SKE,0.2857142857142857,0.0,0.2857142857142857,0.1,0.4,0.0,0.0,0.0,0.0,0.13924050632911392,0.1407142857142857,13.39512931809245,4.0,140k - 160k,East Midlands,Urban with rural areas,Conservative
 Scottish unitary authority,Falkirk Council,FAL,0.2857142857142857,0.0,0.14285714285714285,0.2,0.4,0.0,0.0,0.0,0.0,0.13924050632911392,0.13428571428571429,19.50601231230732,4.0,140k - 210k,Scotland,Urban,Coalition/Minority
@@ -321,35 +320,36 @@ Welsh unitary authority,Merthyr Tydfil County Borough Council,MTY,0.095238095238
 Welsh unitary authority,Conwy County Borough Council,CWY,0.047619047619047616,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.05063291139240506,0.05714285714285715,22.30196567212033,3.0,0k - 140k,Wales,Urban with rural areas,Coalition/Minority
 Non-metropolitan district,Harlow District Council,HAR,0.09523809523809523,0.0,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.05063291139240506,0.057142857142857134,21.32990094984323,2.0,80k - 90k,East of England,Urban,Conservative
 Non-metropolitan district,Rochford District Council,ROC,0.047619047619047616,0.0,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0,0.02531645569620253,0.028571428571428567,10.491386606080033,5.0,80k - 90k,East of England,Urban,Conservative
-Unitary authority,Thurrock Council,THR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.129832036067253,3.0,140k - 210k,East of England,Urban,Conservative
-Non-metropolitan district,Vale of White Horse District Council,VAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.364813730175651,5.0,140k - 160k,South East,Urban with rural areas,Liberal Democrat
-Welsh unitary authority,Torfaen County Borough Council,TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.44601113832013,2.0,0k - 140k,Wales,Urban,Labour
-Metropolitan district,Tameside Metropolitan Borough Council,TAM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.66438354827744,1.0,210k - 290k,North West,Urban,Labour
 London borough,London Borough of Waltham Forest,WFT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.230597303805656,3.0,210k - 290k,London,Urban,Labour
+Welsh unitary authority,Torfaen County Borough Council,TOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.44601113832013,2.0,0k - 140k,Wales,Urban,Labour
+Metropolitan district,City of Wolverhampton Council,WLV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.534546645807765,1.0,210k - 290k,West Midlands,Urban,Labour
+Unitary authority,City of York Council,YOR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.81076590319916,5.0,210k - 290k,Yorkshire and The Humber,Urban,Coalition/Minority
+Metropolitan district,Tameside Metropolitan Borough Council,TAM,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.66438354827744,1.0,210k - 290k,North West,Urban,Labour
 Combined authority,Tees Valley Combined Authority,TVCA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,North East,,
 Non-metropolitan district,Tamworth Borough Council,TAW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.00683846615208,2.0,50k - 80k,West Midlands,Urban,Conservative
-Unitary authority,City of York Council,YOR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.81076590319916,5.0,210k - 290k,Yorkshire and The Humber,Urban,Coalition/Minority
+Unitary authority,Thurrock Council,THR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.129832036067253,3.0,140k - 210k,East of England,Urban,Conservative
+Non-metropolitan district,Vale of White Horse District Council,VAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.364813730175651,5.0,140k - 160k,South East,Urban with rural areas,Liberal Democrat
 NI district,"Armagh City, Banbridge and Craigavon Borough Council",ABC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,Northern Ireland,Sparse and rural,
 Unitary authority,Stoke-on-Trent City Council,STE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.85016334275965,1.0,210k - 290k,West Midlands,Urban,Coalition/Minority
-Unitary authority,East Riding of Yorkshire Council,ERY,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.56265249008568,5.0,290k - 410k,Yorkshire and The Humber,Urban with rural areas,Conservative
-Non-metropolitan district,Crawley Borough Council,CRW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.966802204449824,2.0,110k - 120k,South East,Urban,Coalition/Minority
-Non-metropolitan district,Dartford Borough Council,DAR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.4668279665382,2.0,110k - 120k,South East,Urban,Conservative
+County,Essex County Council,ESS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.309280024821412,1.0,1m +,East of England,,Conservative
 Unitary authority,Derby City Council,DER,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.783834163745343,2.0,210k - 290k,East Midlands,Urban,Coalition/Minority
 Metropolitan district,Dudley Metropolitan Borough Council,DUD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.40006177937537,3.0,290k - 410k,West Midlands,Urban,Conservative
 Non-metropolitan district,Eden District Council,EDN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.23796685632734,3.0,50k - 80k,North West,Sparse and rural,Coalition/Minority
 Non-metropolitan district,Erewash Borough Council,ERE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.918329432873065,2.0,110k - 120k,East Midlands,Urban,Conservative
 Scottish unitary authority,East Renfrewshire Council,ERW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.107730202932396,5.0,0k - 140k,Scotland,Urban,Coalition/Minority
+Unitary authority,East Riding of Yorkshire Council,ERY,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.56265249008568,5.0,290k - 410k,Yorkshire and The Humber,Urban with rural areas,Conservative
 Non-metropolitan district,East Suffolk Council,ESK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.65232907749106,2.0,170k - 250k,East of England,Urban with rural areas,Conservative
-Metropolitan district,Coventry City Council,COV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.03264564318032,2.0,290k - 410k,West Midlands,Urban,Labour
-County,Essex County Council,ESS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.309280024821412,1.0,1m +,East of England,,Conservative
 Non-metropolitan district,Fenland District Council,FEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.618472380952376,1.0,90k - 100k,East of England,Urban with rural areas,Conservative
+Non-metropolitan district,Crawley Borough Council,CRW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.966802204449824,2.0,110k - 120k,South East,Urban,Coalition/Minority
 Welsh unitary authority,Flintshire County Council,FLN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.272157952381853,4.0,140k - 210k,Wales,Urban with rural areas,Coalition/Minority
 Non-metropolitan district,Fylde Borough Council,FYL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.85774029462738,3.0,80k - 90k,North West,Urban with rural areas,Conservative
 Non-metropolitan district,Gloucester City Council,GLO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.93664842636764,1.0,120k - 130k,South West,Urban,Conservative
 Non-metropolitan district,Great Yarmouth Borough Council,GRY,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33.29233555810581,1.0,90k - 100k,East of England,Urban with rural areas,Conservative
 Welsh unitary authority,Gwynedd Council,GWN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.5940102958432,4.0,0k - 140k,Wales,Rural,Plaid Cymru
+Unitary authority,Halton Borough Council,HAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.336525368982315,1.0,0k - 140k,North West,Urban,Labour
+London borough,London Borough of Havering,HAV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.063034509462465,4.0,210k - 290k,London,Urban,Coalition/Minority
+Non-metropolitan district,Dartford Borough Council,DAR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.4668279665382,2.0,110k - 120k,South East,Urban,Conservative
 Combined authority,Cambridgeshire and Peterborough Combined Authority,CPCA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,East,,
-Scottish unitary authority,Clackmannanshire Council,CLK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.74116642656027,3.0,0k - 140k,Scotland,Rural,Coalition/Minority
 Non-metropolitan district,Spelthorne Borough Council,SPE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.995468100236373,3.0,90k - 100k,South East,Urban,Coalition/Minority
 Welsh unitary authority,Bridgend County Borough Council,BGE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.178229360809706,3.0,140k - 210k,Wales,Urban with rural areas,Coalition/Minority
 Welsh unitary authority,Isle of Anglesey County Council,AGY,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.20598960732711,3.0,0k - 140k,Wales,Rural,Coalition/Minority
@@ -360,27 +360,27 @@ Non-metropolitan district,Ashfield District Council,ASH,0.0,0.0,0.0,0.0,0.0,0.0,
 Non-metropolitan district,Bassetlaw District Council,BAE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.776074068398337,1.0,110k - 120k,East Midlands,Urban with rural areas,Labour
 London borough,London Borough of Bexley,BEX,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.458360961306877,4.0,210k - 290k,London,Urban,Conservative
 London borough,London Borough of Barnet,BNE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.202091984974825,5.0,290k - 410k,London,Urban,Conservative
-Non-metropolitan district,Chorley Borough Council,CHO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.007317334370985,3.0,120k - 130k,North West,Urban with rural areas,Labour
-Metropolitan district,Bolton Metropolitan Borough Council,BOL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.130111208485506,1.0,290k - 410k,North West,Urban,Coalition/Minority
-Non-metropolitan district,Breckland District Council,BRE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.83135150891632,2.0,140k - 160k,East of England,Sparse and rural,Conservative
+Metropolitan district,Coventry City Council,COV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.03264564318032,2.0,290k - 410k,West Midlands,Urban,Labour
 Non-metropolitan district,Brentwood Borough Council,BRW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.053735903195232,5.0,50k - 80k,East of England,Urban with rural areas,Conservative
 Non-metropolitan district,Burnley Borough Council,BUN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.55430196806119,1.0,80k - 90k,North West,Urban,Coalition/Minority
 Non-metropolitan district,Cannock Chase District Council,CAN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4591539667732,2.0,90k - 100k,West Midlands,Urban,Conservative
 Non-metropolitan district,Castle Point Borough Council,CAS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.821148114543682,3.0,80k - 90k,East of England,Urban,Conservative
 NI district,Causeway Coast and Glens Borough Council,CCG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,Northern Ireland,Sparse and rural,
-Unitary authority,Halton Borough Council,HAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.336525368982315,1.0,0k - 140k,North West,Urban,Labour
-London borough,London Borough of Havering,HAV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.063034509462465,4.0,210k - 290k,London,Urban,Coalition/Minority
+Non-metropolitan district,Chorley Borough Council,CHO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.007317334370985,3.0,120k - 130k,North West,Urban with rural areas,Labour
+Scottish unitary authority,Clackmannanshire Council,CLK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.74116642656027,3.0,0k - 140k,Scotland,Rural,Coalition/Minority
 London borough,London Borough of Hackney,HCK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.56071419678428,1.0,210k - 290k,London,Urban,Labour
+Scottish unitary authority,The Highland Council,HLD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.857337663699248,4.0,210k - 290k,Scotland,Sparse and rural,Coalition/Minority
+Unitary authority,Hartlepool Borough Council,HPL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.96067646776209,1.0,0k - 140k,North East,Urban,Coalition/Minority
 Non-metropolitan district,Ribble Valley Borough Council,RIB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.59807881684404,5.0,50k - 80k,North West,Rural,Conservative
+Metropolitan district,North Tyneside Council,NTY,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.17242512012235,3.0,140k - 210k,North East,Urban,Labour
 Non-metropolitan district,Nuneaton and Bedworth Borough Council,NUN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.63120252842944,1.0,120k - 130k,West Midlands,Urban,Conservative
 Non-metropolitan district,North Warwickshire Borough Council,NWA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.087558761338563,2.0,50k - 80k,West Midlands,Rural,Conservative
 Welsh unitary authority,Powys County Council,POW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.609055616431394,4.0,0k - 140k,Wales,Sparse and rural,Coalition/Minority
 Non-metropolitan district,Preston City Council,PRE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.614644727005984,1.0,140k - 160k,North West,Urban,Labour
-Welsh unitary authority,Rhondda Cynon Taf County Borough Council,RCT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.521077598991763,1.0,210k - 290k,Wales,Urban with rural areas,Labour
 Non-metropolitan district,Redditch Borough Council,RED,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.54283802676488,1.0,80k - 90k,West Midlands,Urban,Conservative
 Scottish unitary authority,Renfrewshire Council,RFW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.08637585152013,3.0,140k - 210k,Scotland,Urban,Coalition/Minority
 Non-metropolitan district,Rugby Borough Council,RUG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.127847716528208,4.0,110k - 120k,West Midlands,Urban with rural areas,Conservative
-Scottish unitary authority,The Highland Council,HLD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.857337663699248,4.0,210k - 290k,Scotland,Sparse and rural,Coalition/Minority
+Non-metropolitan district,Huntingdonshire District Council,HUN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.575762456240904,4.0,170k - 250k,East of England,Rural,Conservative
 Non-metropolitan district,Runnymede Borough Council,RUN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.951561996779388,4.0,80k - 90k,South East,Urban,Conservative
 Unitary authority,Rutland County Council,RUT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.853493225135875,5.0,0k - 140k,East Midlands,Rural,Conservative
 Non-metropolitan district,Selby District Council,SEL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.8220422644008,4.0,80k - 90k,Yorkshire and The Humber,Rural,Conservative
@@ -388,12 +388,10 @@ Metropolitan district,Sheffield City Council,SHF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Metropolitan district,St Helens Council,SHN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.78825867596977,1.0,140k - 210k,North West,Urban,Labour
 Non-metropolitan district,South Holland District Council,SHO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.810919731843104,2.0,90k - 100k,East Midlands,Rural,Conservative
 Non-metropolitan district,South Oxfordshire District Council,SOX,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.45337051324468,5.0,140k - 160k,South East,Urban with rural areas,Coalition/Minority
+Combined authority,North of Tyne Combined Authority,NTCA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,North East,,
+Non-metropolitan district,North Norfolk District Council,NNO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.96941933668457,2.0,110k - 120k,East of England,Sparse and rural,Liberal Democrat
 NI district,"Newry, Mourne and Down District Council",NMD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,Northern Ireland,Sparse and rural,
 County,Norfolk County Council,NFK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.05221602667658,1.0,800k - 1m,East of England,,Conservative
-Non-metropolitan district,New Forest District Council,NEW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.026396071876768,4.0,170k - 250k,South East,Urban with rural areas,Conservative
-Unitary authority,North East Lincolnshire Council,NEL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.342407130725817,1.0,140k - 210k,Yorkshire and The Humber,Urban,Conservative
-Unitary authority,Hartlepool Borough Council,HPL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.96067646776209,1.0,0k - 140k,North East,Urban,Coalition/Minority
-Non-metropolitan district,Huntingdonshire District Council,HUN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.575762456240904,4.0,170k - 250k,East of England,Rural,Conservative
 Non-metropolitan district,Hyndburn Borough Council,HYN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.682468911565465,1.0,80k - 90k,North West,Urban,Labour
 Unitary authority,Council of the Isles of Scilly,IOS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.005,5.0,0k - 140k,South West,Sparse and rural,Independent
 Metropolitan district,Kirklees Council,KIR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.35840253577301,3.0,440k - 640k,Yorkshire and The Humber,Urban,Coalition/Minority
@@ -407,4 +405,6 @@ Non-metropolitan district,Melton Borough Council,MEL,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 NI district,Mid Ulster District Council,MUL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,Northern Ireland,Sparse and rural,
 Non-metropolitan district,North Devon District Council,NDE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.4032797364764,2.0,90k - 100k,South West,Rural,Liberal Democrat
 Combined authority,North East Combined Authority,NECA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,North East,,
+Unitary authority,North East Lincolnshire Council,NEL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.342407130725817,1.0,140k - 210k,Yorkshire and The Humber,Urban,Conservative
+Non-metropolitan district,New Forest District Council,NEW,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.026396071876768,4.0,170k - 250k,South East,Urban with rural areas,Conservative
 Scottish unitary authority,Shetland Islands Council,ZET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.89227279320911,5.0,0k - 140k,Scotland,Sparse and rural,Independent
