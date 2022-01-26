@@ -28,7 +28,6 @@ Including but not limited to:
 • Council owned companies and enterprises
 • Housing association",CHECKBOX,1
 s1_gov_q2,Does the Plan include science backed net-zero targets in which the terms are defined and the scope is considered?,HEADER,
-s1_gov_q2_sp1,The council’s net-zero target for the whole area is based on the Tyndall Centre data for the area. The Plan uses the Tyndall Centre data to set out carbon reduction milestones on the way to reaching its net-zero target.,CHECKBOX,1
 s1_gov_q2_sp1_v2,The Plan contains yearly or interim targets for carbon reduction in the whole district up until the net-zero target date.,CHECKBOX,1
 s1_gov_q2_sp1_v2_b,The Plan states a net-zero target for the whole district,"No, A target of 2030 or earlier, A target of 2031 - 2050","0,2,1"
 s1_gov_q2_sp2,The council has a target of reaching net-zero for their own emissions by 2030.,CHECKBOX,1
@@ -137,18 +136,6 @@ Including but not limited to:
 • Recruitment e.g. Placing climate mitigation and adaptation into all job descriptions and providing climate focused training and resources.
 • Competencies
 • Accountability",CHECKBOX,1
-s3_c&a_q10_sp4,"The Plan sets out how the climate and ecological emergency will be integrated with and become a key aim of existing organisational procedures.
-
-Give the point if either bullet point is covered
-
-Including:
-• Sustainable food policies and procedures 
-- Creating a sustainable food policy for the area* 
-- Redesigning food supply chains and procurement in the council to consider the carbon emissions of food at every stage of its production, delivery and consumption.
-• Parks, such as equipment and procedures
-- Ban the use of pesticides
-- Purchase electric park equipment 
-- Mow less",CHECKBOX,1
 s3_c&a_q11,Does the Plan link to and integrate with the Local Plan?,HEADER,
 s3_c&a_q11_sp1,The Action Plan mentions or links to the Local Plan.*,CHECKBOX,1
 s3_c&a_q11_sp2,The Action Plan commits to the council to update their Local Plan with the climate crisis at its core.,CHECKBOX,1
@@ -163,17 +150,6 @@ SMART targets:
 • Time-bound (the target dates are set in line with the urgency of the situation)",CHECKBOX,1
 s3_c&a_q12_sp2,Most of the actions in the Plan have SMART Targets.,CHECKBOX,1
 s4_coms_q13,Has a representative cross section of the community and relevant stakeholders been involved in developing and delivering the Plan?,HEADER,
-s4_coms_q13_sp1,"The Plan outlines who has already been involved or who it intends to involve in its development.
-
-Outline 3 or more bullet points to get the point
-
-• Community groups
-• Residents
-• Local businesses
-• Anchor institutions 
-• Young People 
-• Marginalised groups 
-",CHECKBOX,1
 s4_coms_q13_sp2,"The Plan clearly makes extra effort to reach harder to reach communities and under-represented groups in the environmental movement
 
 Including but not limited to:
@@ -185,20 +161,6 @@ Including but not limited to:
 • High carbon emitting businesses
 • Farmers 
 • Land owners",CHECKBOX,1
-s4_coms_q13_sp3,"The Plan clearly states how residents, businesses and stakeholders will continue to be involved in the progress and delivery of the Plan.
-
-Examples including but not limited to:
-• Creating a permanent community forum 
-• Allocating community representation on key committees 
-• Creating an ongoing online feedback page
-• Running online webinars and engagement sessions
-• Physical suggestion boxes in locations around the area",CHECKBOX,1
-s4_coms_q13_sp4,"A representative cross section of the community and relevant stakeholders have been involved already, or there is a plan for them to be involved in developing the Plan in the form of a citizens’ assembly or similar.
-
-The Citizens’ Assembly must include:
-A random cross section of society
-Incentivisation or financial compensation for the people involved for their time
-A commitment to listen to the results of the assembly and to act on the participant’s suggestions.",CHECKBOX,1
 s4_coms_q13_sp3_new,"The Plan clearly states how residents, businesses and stakeholders will continue to be involved in the progress and delivery of the Plan.
 Examples including but not limited to:
 Creating a permanent community forum 
