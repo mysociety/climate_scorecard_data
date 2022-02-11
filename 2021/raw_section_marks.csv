@@ -27,14 +27,14 @@ ABE,s7_dsi,5,0.0
 ABE,s8_est,5,1.0
 ABE,s9_ee,4,0.0
 ADU,s1_gov,21,13.0
-ADU,s2_m&a,18,10.0
+ADU,s2_m&a,18,12.0
 ADU,s3_c&a,7,2.0
 ADU,s4_coms,9,5.0
 ADU,s5_mset,5,3.0
 ADU,s6_cb,4,3.0
 ADU,s7_dsi,5,2.0
 ADU,s8_est,5,3.0
-ADU,s9_ee,4,1.0
+ADU,s9_ee,4,2.0
 AGB,s1_gov,21,11.0
 AGB,s2_m&a,18,8.0
 AGB,s3_c&a,7,2.0
@@ -278,10 +278,10 @@ BNE,s6_cb,4,0.0
 BNE,s7_dsi,5,0.0
 BNE,s8_est,5,0.0
 BNE,s9_ee,4,0.0
-BNH,s1_gov,21,10.0
+BNH,s1_gov,21,11.0
 BNH,s2_m&a,18,13.0
 BNH,s3_c&a,7,3.0
-BNH,s4_coms,9,7.0
+BNH,s4_coms,9,8.0
 BNH,s5_mset,5,4.0
 BNH,s6_cb,4,3.0
 BNH,s7_dsi,5,2.0
@@ -791,7 +791,7 @@ DAC,s6_cb,4,1.0
 DAC,s7_dsi,5,0.0
 DAC,s8_est,5,2.0
 DAC,s9_ee,4,3.0
-DAL,s1_gov,21,16.0
+DAL,s1_gov,21,15.0
 DAL,s2_m&a,18,11.0
 DAL,s3_c&a,7,6.0
 DAL,s4_coms,9,5.0
@@ -3555,7 +3555,7 @@ WOR,s7_dsi,5,1.0
 WOR,s8_est,5,1.0
 WOR,s9_ee,4,2.0
 WOT,s1_gov,21,13.0
-WOT,s2_m&a,18,10.0
+WOT,s2_m&a,18,12.0
 WOT,s3_c&a,7,2.0
 WOT,s4_coms,9,5.0
 WOT,s5_mset,5,3.0
